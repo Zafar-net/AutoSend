@@ -2,7 +2,7 @@ from telegram import Update, InputMediaPhoto, InputMediaVideo
 from telegram.ext import ApplicationBuilder, MessageHandler, filters, CallbackContext
 import asyncio
 import logging
-//
+// fgfg
 TOKEN = "8052336413:AAFaMV7Uw0g007KQhLJuEXr_fT8Oer3PcFg"
 SOURCE_GROUP = -1002392685644
 TARGET_GROUPS = [-1002462989094, -1002416697334, -1002391114315]
